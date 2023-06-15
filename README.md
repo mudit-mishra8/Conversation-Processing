@@ -1,4 +1,4 @@
-# CONVERSATIONAL SUMMARIZER 💬
+# CONVERSATIONS SUMMARIZER 💬
 
 
 <img src="https://img.freepik.com/free-photo/cheerful-young-business-people-have-talk-during-coffee-break-office_93675-133587.jpg?w=1380&t=st=1686858689~exp=1686859289~hmac=6cdc820a8c748fce6a097497d55d8e641033c5352a28ed001ea0bbfb8562ec0b" alt="Image 1" width="1000" height="420">
