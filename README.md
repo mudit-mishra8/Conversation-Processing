@@ -1,6 +1,8 @@
 # CONVERSATIONAL SUMMARIZER 💬
 
-![Conversational Analysis](<img src="https://img.freepik.com/free-photo/cheerful-young-business-people-have-talk-during-coffee-break-office_93675-133587.jpg?w=1380&t=st=1686858689~exp=1686859289~hmac=6cdc820a8c748fce6a097497d55d8e641033c5352a28ed001ea0bbfb8562ec0b" alt="Image 1" width="1000" height="420">)
+![Conversational Analysis](
+<img src="https://img.freepik.com/free-photo/cheerful-young-business-people-have-talk-during-coffee-break-office_93675-133587.jpg?w=1380&t=st=1686858689~exp=1686859289~hmac=6cdc820a8c748fce6a097497d55d8e641033c5352a28ed001ea0bbfb8562ec0b" alt="Image 1" width="1000" height="420">
+)
 
 Welcome to my Conversational Summarizer project! Using Python and Pandas, I transform conversations into concise summaries. With the abundance of conversational data available, understanding the essence of conversations can be like finding a needle in a haystack. This project simplifies that process.
 ### [📓 View the Python Code](https://github.com/mudit-mishra8/Conversation-Processing/blob/main/Conversational%20Summarizer.ipynb)
